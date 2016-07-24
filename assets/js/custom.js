@@ -1,7 +1,4 @@
 /*=============================================================
-    Authour URL: www.designbootstrap.com
-    
-    http://www.designbootstrap.com/
 
     License: MIT
 
